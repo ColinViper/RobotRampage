@@ -8,10 +8,13 @@ public class GameUI : MonoBehaviour
 
     [SerializeField]
     Sprite redReticle;
+
     [SerializeField]
     Sprite yellowReticle;
+
     [SerializeField]
     Sprite blueReticle;
+
     [SerializeField]
     Image reticle;
 
